@@ -2048,4 +2048,6 @@ body.modal{overflow: hidden;}
 	.shane_tm_news .news_list ul{margin: 0px;}
 	.shane_tm_news .news_list ul li{padding: 0px;width: 100%;}
 	.mouse-cursor, .cursor-inner, .cursor-inner.cursor-hover, .cursor-outer{display: none;}
+	.cursor-outer.cursor-hover{opacity: 0; display: none;} 
+	.shane_tm_all_wrap[data-magic-cursor="hide"] .mouse-cursor{display: none;}
 }
