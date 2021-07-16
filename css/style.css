@@ -2039,6 +2039,7 @@ body.modal{overflow: hidden;}
 	.shane_tm_mobalbox_contact .right{width: 100%;padding-left: 0px;}
 	.shane_tm_mobalbox_contact .short_info ul{margin: 0px;}
 	.shane_tm_mobalbox_contact .short_info ul li{width: 100%;padding-left: 0px;}
+	.mouse-cursor, .cursor-inner, .cursor-inner.cursor-hover, .cursor-outer{display: none;}
 }
 @media (max-width: 768px) {
 	.shane_tm_hero .content{padding-right: 0px;width: 80%;}
